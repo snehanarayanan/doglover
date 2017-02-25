@@ -1,0 +1,20 @@
+h1{
+	color: purple;
+	font-size: 50px;
+	font-family: 'Georgia', serif
+}
+
+p{
+	color: green;
+}
+#shiny{
+	color: gold;
+}
+#silver{
+	color: silver;
+}
+img{
+	margin-left: 20%;
+	border-style: dotted;
+	resize: 40%;
+}
